@@ -15,10 +15,7 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 
 /**
- *
- * @author Abarca Romero Jose Angel
- *         Montiel Cruz Angel Leonardo
- *         Ortiz Alvarado Luis Fernando
+ProyectoEquipo6
  */
 public class BDD {
 
